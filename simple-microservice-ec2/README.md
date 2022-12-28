@@ -159,10 +159,10 @@ If its not accessible, edit the Inbound Rules to enable 8080 port under Security
 Execute the POST request ([Click here](http://<public-ipv4-address>:8080/car)) with few data like below:
 
 ```json
-{     
-	"id":1,     
-	"name":"CLA",     
-	"manufacturer":"Mercedes",     
+{ 
+	"id":1, 
+	"name":"CLA", 
+	"manufacturer":"Mercedes", 
 	"type":"Saloon" 
 }
 ```
